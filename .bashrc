@@ -31,9 +31,6 @@
     #export GREP_COLOR=”1;32″
     shopt -s histappend
 
-    #
-    # Your previous /Users/scottr/.bash_profile file was backed up as /Users/scottr/.bash_profile.macports-saved_2012-08-10_at_09:22:07
-    ##
 
     export PATH=/usr/local/bin:/usr/local/lib:/opt/local/bin:/opt/local/sbin:/usr/local/share/npm/bin:/Users/scottr/bin:$PATH
     export MAGICK_HOME="$HOME/bin/ImageMagick-6.8.6"
