@@ -6,10 +6,6 @@
     alias ls='ls $LS_OPTIONS'
     alias la='ls -a'
 
-    alias droplet='ssh root@192.81.217.82'
-
-    alias miner='ssh -p 8181 scott@scott.zapto.org'
-
     # Git branch in prompt.
     # http://henrik.nyh.se/2008/12/git-dirty-prompt
     # http://www.simplisticcomplexity.com/2008/03/13/show-your-git-branch-name-in-your-prompt/
