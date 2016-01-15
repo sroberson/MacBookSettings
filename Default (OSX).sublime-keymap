@@ -1,0 +1,9 @@
+[
+    { "keys": ["end"], "command": "move_to", "args": {"to": "eol"} },
+    { "keys": ["home"], "command": "move_to", "args": {"to": "bol"} },
+    { "keys": ["shift+end"], "command": "move_to", "args": { "to": "eol", "extend": true } },
+    { "keys": ["shift+home"], "command": "move_to", "args": { "to": "bol", "extend": true } },
+    { "keys": ["super+d"], "command": "duplicate_line" },
+    { "keys": ["super+shift+w"], "command": "wrap_lines_plus", "args": {"width": 100} }
+    // { "keys": ["super+shift+w"], "command": "wrap_lines", "args": {"width": 80} }
+]
